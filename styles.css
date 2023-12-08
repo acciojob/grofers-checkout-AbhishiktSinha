@@ -19,7 +19,7 @@ table {
 	outline: 1px solid;	
 }
 
-.total-price-cell {
+#ans {
 	text-align: right;
 	font-size: 18px;
 }

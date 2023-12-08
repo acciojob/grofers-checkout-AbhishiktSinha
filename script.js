@@ -27,7 +27,7 @@ const getSum = () => {
 		totalPriceCell = document.createElement("td");
 		
 		totalPriceRow.className = "total-price-row";
-		totalPriceCell.className = "total-price-cell";
+		totalPriceCell.id = "ans";
 		// totalPriceCell.setAttribute("colspan", "2");
 		totalPriceRow.appendChild(totalPriceCell);
 
