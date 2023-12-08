@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+*{
+	font-family: 'Segoe UI';
+}
+th {
+	text-align: left;
+}
+caption {
+	font-family: 'Lucida sans' !important;
+	font-size: 24px;
+	font-weight: 600;
+	padding-block: 10px;
+
+	text-align: left;
+}
+
+table {
+	outline: 1px solid;	
+}
+
+.total-price-cell {
+	text-align: right;
+	font-size: 18px;
+}
